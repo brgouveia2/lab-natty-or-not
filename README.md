@@ -21,22 +21,33 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+A Jornada do Cavaleiro Cibernético
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+"A Jornada do Cavaleiro Cibernético" é uma história curta que combina elementos de fantasia e ficção científica. A narrativa segue um cavaleiro que vive em um mundo futurista onde humanos e máquinas coexistem. Este projeto utiliza tecnologias de IA para gerar o texto, as ilustrações e a narração em áudio.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GPT para gerar o texto da história
+DALL-E 2 para criar as ilustrações
+Eleven Labs para gerar a narração em áudio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Desenvolvimento do Enredo:
+Utilizei o GPT-4 para criar o esqueleto da história, definindo o cenário, os personagens principais e a trama.
+2. Geração do Texto:
+Refinei o texto com o ChatGPT, garantindo uma narrativa coerente e envolvente.
+3. Criação das Ilustrações:
+Usei o Lexica Art para gerar imagens baseadas nas descrições de cenas da história.
+3. Narração em Áudio:
+Convertemos o texto final em áudio utilizando o Eleven Labs para uma narração fluida e natural.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados estão no commit do projeto, sendo as duas ilustracoes feitas com Lexica Art e uma narração do capitulo 1 e 2 do curta feita pela Eleven Labs. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar este projeto foi uma experiência incrível. Utilizar IAs generativas para desenvolver diferentes aspectos de uma única obra destacou o imenso potencial dessas tecnologias. O desafio de manter a história e as ilustrações "naturais" com IA foi superado através de ajustes contínuos e refinamento, resultando em uma narrativa cativante e visualmente atraente.
+
+Compartilhar essa experiência com a comunidade através da hashtag #LabDIONattyOrNot e ver as reações será empolgante. A combinação de criatividade humana e capacidades avançadas de IA realmente abre portas para novas formas de contar histórias e criar arte.
 
 ### Exemplos e Insigths
 
